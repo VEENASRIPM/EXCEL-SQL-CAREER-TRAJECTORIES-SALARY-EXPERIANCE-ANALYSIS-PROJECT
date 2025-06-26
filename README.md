@@ -1,4 +1,4 @@
-# Global Salary and Experience Analysis Report
+# CAREER TRAJECTORIES - GLOBAL SALARY AND EXPERIANCE ANALYSIS REPORT - EXCEL, SQL
 
 ## Objective
 
